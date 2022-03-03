@@ -1,0 +1,105 @@
+
+h1, h2, h3 {
+	font-family: "Courier New", Monospace;
+	color:#8984ff;
+}
+h4 {
+	color:#8984ff;
+}
+	
+h1 {
+	text-decoration: underline double #8984ff 2px;
+	font-size: 30px;
+}
+p, ol, ul, td  {
+	color: #c4c2ff;
+	font-size:17px;
+	text-align:left;
+}
+a {
+	font-family: "Sans Serif";
+	margin-right: 8%;
+	margin-left: 8%;
+	font-size: 17px;
+	color:#c4c2ff;
+}
+h2 {
+	font-size: 24pt;
+}
+
+#daguerrotype {
+	display:block;
+	margin:auto;
+	
+}
+.head {
+	position: relative;
+	max-width:100%; 
+
+}
+.center {
+	position: absolute;
+	text-align: center;
+	
+	background-color:#083c5b71; 
+	color: #f1f1f1;
+	width: 100%; 
+	top: 20%;
+	bottom :50%;
+}
+#obscura {
+	margin-left: 30%;
+	
+	
+}
+.history {
+	border:solid 5px #8984ff;
+	border-radius: 25px;
+}
+body {
+	background-color:black;
+	
+}
+.border {
+	border-color: white;
+	border-width: 2px;
+}
+
+#float {
+	float: right; /*Float id for pictures */
+}
+#floaty {
+	float:left;
+	margin-right:3%; /*Float id for text */
+}
+.Contents {
+	text-align: center;
+}
+.Content {
+	height:200px;	
+}	
+table {
+	display: table;
+	margin: auto;
+}
+.history_table {
+	margin-left:0;
+}
+#typesImage {
+	float:right;
+	margin-right: 5%;
+	
+}
+.typeCenter {
+	text-align:center;
+	display:block;
+	margin:auto;
+}
+.centerList {
+	display:table;
+	margin:auto; 
+}
+.imgType {
+	margin-top: 1%;
+	margin-bottom: 2%; 
+}
